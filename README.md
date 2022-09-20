@@ -2,6 +2,9 @@
 
 
 %% Required Libraries
+
 % Image Processing for Hyperspectral Imaging
+
 % Machine Learning and Deep Learning
+
 % This demo is executed on Matlab 2021a
