@@ -1,4 +1,4 @@
-## This demo is associated with: [A Disjoint Samples based 3D CNN with Active Transfer Learning for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/9903062) Accepted for possible publication in the future issues of IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS).
+## This demo is associated with: [A Disjoint Samples based 3D CNN with Active Transfer Learning for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/9903062) Accepted for publication in the future issues of IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS).
 
 
 %% Required Libraries
